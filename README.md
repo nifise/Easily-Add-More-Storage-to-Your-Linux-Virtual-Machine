@@ -9,7 +9,7 @@ Here is a video which guides you though on most of what to do and how. https://y
 
 Steps:
 
-- Turn of the machine.
+- Turn off the machine.
 - Then go to the virtual box manager. Then File on the top left of the window -> Tools -> Virtual Media Manager. Choose the machine then go down to “Attribute”. Increase the space as needed, then apply.
 - Turn back on the machine.
 - Before doing anything, CREATE A SNAPSHOT to save machine state before configuration. Snapshots don’t undo anything automatically, they’re just restore points. Reverting to a snapshot will roll back all changes made after it.
